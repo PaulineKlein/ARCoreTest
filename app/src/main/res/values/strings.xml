@@ -1,0 +1,30 @@
+<resources>
+  <string name="app_name">AR Practice</string>
+  <string name="viking">Viking</string>
+  <string name="chair">Chaise</string>
+  <string name="iphone">iPhone</string>
+  <string name="android">Android</string>
+  <string name="clean">Clean</string>
+  <string name="camera_permission_toast">Camera permission is needed to run this application</string>
+  <string name="searching_for_surfaces">Searching for surfaces…</string>
+  <string name="ar_device_support">This device does not support AR</string>
+    <string name="camera_not_available">Camera not available. Try restarting the app.</string>
+  <string name="arcore_install_failed">Unexpected failure during ArCoreApk install request</string>
+  <string name="please_install_arcore">Please install ARCore</string>
+  <string name="please_update_arcore">Please update ARCore</string>
+  <string name="please_update_app">Please update this app</string>
+  <string name="arcore_not_supported">This device does not support AR</string>
+  <string name="failed_to_create_session">Failed to create AR session</string>
+  <string name="camera_permission_needed">Camera permission is needed to run this application</string>
+  <string name="model_grid_png">models/trigrid.png</string>
+  <string name="model_viking_obj">models/viking.obj</string>
+  <string name="model_viking_png">models/viking.png</string>
+  <string name="model_chair_obj">models/chair.obj</string>
+  <string name="model_chair_png">models/chair.png</string>
+  <string name="model_iphone_obj">models/iphoneX.obj</string>
+  <string name="model_iphone_png">models/iphoneX.png</string>
+  <string name="model_android_obj">models/phone.obj</string>
+  <string name="model_android_png">models/phone.jpg</string>
+  <string name="failed_to_read_asset">Failed to read an asset file</string>
+  <string name="exception_on_opengl">Exception on the OpenGL thread</string>
+</resources>
